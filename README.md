@@ -8,8 +8,23 @@
 
 ## Languages and Tools :
 
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C# Logo" width="50" style="max-width: 100%; margin-right: 20px;" ></a> <a href="#"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="[https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png](https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg)" alt="Microsoft SQL Server Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="data:image/png;base64,iC" alt="MySQL Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> 
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Oracle_logo.svg/1280px-Oracle_logo.svg.png" alt="Oracle Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node.js Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C# Logo" width="50" style="max-width: 100%; margin-right: 20px;" ></a> <a href="#"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a>
+
+
+<a href="#"><img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="MSSQL Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a>
+
+<a href="#"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> 
+
+
+<a href="#2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png alt="Oracle Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a>
+
+
+
+
+
+
+
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node.js Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a>
 
 
 
