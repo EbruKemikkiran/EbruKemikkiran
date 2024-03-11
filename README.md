@@ -11,7 +11,7 @@
 
 ## Languages and Tools :
 
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C# Logo" width="50" style="max-width: 100%; margin-right: 50px;" ></a>  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50" style="max-width: 100%; margin-right: 50px;"></a>  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node.js Logo" width="50" style="max-width: 100%; margin-right: 50px;"></a>  <a href="#"><img src="https://audacia.co.uk/img/technical-blog/blazor-preview.jpg" alt="Blazor Logo" width="50" style="max-width: 100%; margin-right: 50px;"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C# Logo" width="50" style="max-width: 100%; margin-right: 50px;" ></a>  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50" style="max-width: 100%; margin-right: 50px;"></a>  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node.js Logo" width="50" style="max-width: 100%; margin-right: 50px;"></a>  <a href="#"><img src="https://audacia.co.uk/img/technical-blog/blazor-preview.jpg" alt="Blazor Logo" width="50" style="max-width: 100%; margin-right: 50px;"></a>  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Blazor Logo" width="50" style="max-width: 100%; margin-right: 50px;"></a>
 
 
 
