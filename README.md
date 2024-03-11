@@ -16,7 +16,7 @@
 <a href="#"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a> 
 
 
-<a href="#2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png alt="Oracle Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="50" style="max-width: 100%; margin-right: 20px;"></a>
 
 
 
