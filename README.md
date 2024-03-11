@@ -2,7 +2,8 @@
 
 ## Connect with me :
 
-[![LinkedIn](https://www.kindpng.com/picc/m/17-179490_linkedin-icon-clear-linkedin-logo-hd-png-download.png)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwir9uKumOyEAxUBxAIHHUBADyYQFnoECBAQAQ&url=https%3A%2F%2Fuk.linkedin.com%2Fin%2Febru-kemikkiran-90b86ab2&usg=AOvVaw0YwmTILww4DvZsuoSMU-q_&opi=89978449)
+[![LinkedIn](https://www.kindpng.com/picc/m/17-179490_linkedin-icon-clear-linkedin-logo-hd-png-download.png)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwir9uKumOyEAxUBxAIHHUBADyYQFnoECBAQAQ&url=https%3A%2F%2Fuk.linkedin.com%2Fin%2Febru-kemikkiran-90b86ab2&usg=AOvVaw0YwmTILww4DvZsuoSMU-q_&opi=89978449){ width=50px height=50px }
+
 
 
 ## Languages and Tools :
